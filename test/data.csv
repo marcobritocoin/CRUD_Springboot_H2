@@ -1,0 +1,5 @@
+name,id,code,resp
+teclado,1,200,teclado
+mouse,2,200,mouse
+cpu,3,200,cpu
+monitor,5,406,monitor
